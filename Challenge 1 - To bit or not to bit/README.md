@@ -1,4 +1,4 @@
-# 🎭 Challenge One: Too bit or not too bit
+# 🎭 Challenge One: To bit or not to bit
 
 ## Overview
 
@@ -10,7 +10,7 @@ This task requires the participants to write a program computing the first ten [
 
 ## Documentation
 
-The output of your program should the following:
+The output of your program should be the following:
 ```
 1, 13, 37, 73, 121, 181, 253, 337, 433, 541
 ```

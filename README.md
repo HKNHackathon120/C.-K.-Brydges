@@ -21,5 +21,5 @@ You have to make it the most convoluted e confusing you can, so that Dr. Kahan w
 a lot of time trying to understant its purpose.
 
 ### 💡 Challenge Three: The beauty of simplicity
-As a final task, you have to simplify this boolean expression.
+As a final task, you have to simplify a boolean expression.
 

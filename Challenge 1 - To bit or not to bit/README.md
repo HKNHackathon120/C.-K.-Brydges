@@ -23,4 +23,4 @@ Te solution will be evaluated based on two criteria:
 
 ## Submission
 
-To complete the challenge, use [this form]() to submit a `.spl` file containing your solution.
+To complete the challenge, use [this form](https://forms.gle/Q6ybRCUM8SXMBrGH6) to submit a `.spl` file containing your solution.

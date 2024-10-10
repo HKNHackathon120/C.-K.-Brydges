@@ -16,7 +16,7 @@ This challenge requires the participants to simplify the following boolean expre
 
 You can use the following table to look for common simplifying techniques.
 
-![techniques](https://www.electronics-tutorials.ws/wp-content/uploads/2022/09/boolean-algebra-table.jpg)
+[techniques](https://www.electronics-tutorials.ws/boolean/boolean-algebra-simplification.html)
 
 ## Evaluation Criteria
 

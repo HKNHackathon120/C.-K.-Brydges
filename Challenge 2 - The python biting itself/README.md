@@ -33,4 +33,4 @@ The solution will be evaluated considering its complexity, length and creativity
 
 ## Submission
 
-To complete the challenge, use [this form]() to submit a `.py` file containing your solution.
+To complete the challenge, use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdTPVQYAa1HMkIdxysPNkNJA_I6Bdu1wAb59RxTk4W4decuKQ/viewform?usp=sf_link) to submit a `.py` file containing your solution.
